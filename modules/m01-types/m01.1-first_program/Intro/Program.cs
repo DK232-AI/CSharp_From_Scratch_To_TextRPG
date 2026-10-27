@@ -1,6 +1,6 @@
 using System;
 
-namespace First_Program
+namespace FirstProgram
 {
     class Program
     {

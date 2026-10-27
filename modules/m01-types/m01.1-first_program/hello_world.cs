@@ -2,7 +2,7 @@ using System;
 
 namespace HelloWorld
 {
-    class Program
+    class hello_world
     {
         static void Main(string[] args)
         {
