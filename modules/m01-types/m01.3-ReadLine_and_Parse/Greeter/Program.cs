@@ -14,7 +14,7 @@ namespace Greeter
             bool validNumber = int.TryParse(age_s, out int age_i);
             bool isBetween = validNumber && age_i >= 0 && age_i <= 150;
             
-            if (isBetween == true)
+            if (isBetween)
             {
                 Console.WriteLine($"Тебе {age_i} лет");
             }
